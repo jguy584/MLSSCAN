@@ -1,0 +1,64 @@
+aiohttp==3.8.4
+aiohttp-retry==2.8.3
+aiosignal==1.3.1
+async-generator==1.10
+async-timeout==4.0.2
+asyncio==3.4.3
+attrs==23.1.0
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+conda==4.12.0
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1649105784853/work
+contourpy==1.0.7
+cryptography @ file:///tmp/build/80754af9/cryptography_1639414572950/work
+cycler==0.11.0
+exceptiongroup==1.1.1
+fonttools==4.39.2
+frozenlist==1.3.3
+future==0.18.3
+h11==0.14.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+importlib-resources==5.12.0
+iso8601==1.1.0
+kiwisolver==1.4.4
+matplotlib==3.7.1
+multidict==6.0.4
+numpy==1.24.2
+outcome==1.2.0
+packaging==23.0
+pandas==1.5.3
+Pillow==9.4.0
+plyer==2.1.0
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyJWT==2.6.0
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+pyserial==3.5
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+pytesseract==0.3.10
+python-dateutil==2.8.2
+pytz==2023.3
+PyVISA==1.13.0
+PyVISA-py==0.6.3
+PyYAML==6.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016711199/work
+selenium==4.8.3
+serial==0.0.97
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+sortedcontainers==2.4.0
+tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+trio==0.22.0
+trio-websocket==0.10.2
+twilio==8.0.0
+typing_extensions==4.5.0
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+wsproto==1.2.0
+yarl==1.8.2
+zipp==3.15.0
